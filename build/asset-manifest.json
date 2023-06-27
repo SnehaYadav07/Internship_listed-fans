@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.259d516e.css",
+    "main.js": "/static/js/main.3f0ddf59.js",
+    "static/media/setting-icon.svg": "/static/media/setting-icon.eda6415d2a323a8e97ddc3b110eb0079.svg",
+    "static/media/vector.svg": "/static/media/vector.cf6a6db6c1b37952daacf07033c54178.svg",
+    "static/media/vector2.svg": "/static/media/vector2.17c7f2743b22fb44408f42d04698407e.svg",
+    "static/media/transaction-icon.svg": "/static/media/transaction-icon.8493e95e6ade2da5b1cd502bbe31b0d9.svg",
+    "static/media/total-transactions-icon.svg": "/static/media/total-transactions-icon.05d46514630d32e6a0052fcab105d69c.svg",
+    "static/media/user-icon.svg": "/static/media/user-icon.730e872cb3da053898f93322ef0a9175.svg",
+    "static/media/dashboard-icon.svg": "/static/media/dashboard-icon.54dd8889440f5f23e7224b2e532aa5db.svg",
+    "static/media/vector1.svg": "/static/media/vector1.72464374dccb920b5462be0c9e9cca35.svg",
+    "static/media/schedule-icon.svg": "/static/media/schedule-icon.28aa2bacdf14bf8afc519d2a5b80402f.svg",
+    "static/media/vector5.svg": "/static/media/vector5.a01de3445b37f65a16ef23d9aa831ecd.svg",
+    "static/media/vector4.svg": "/static/media/vector4.747150e447ad50955a72f1deee96e9f7.svg",
+    "index.html": "/index.html",
+    "main.259d516e.css.map": "/static/css/main.259d516e.css.map",
+    "main.3f0ddf59.js.map": "/static/js/main.3f0ddf59.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.259d516e.css",
+    "static/js/main.3f0ddf59.js"
+  ]
+}
